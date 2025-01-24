@@ -1,3 +1,3 @@
 ## Campus Geo
 
-[Campus Geo](https://campusgeo.com)
+[CampusGeo.com](https://campusgeo.com)
